@@ -33,3 +33,23 @@
     justify-content: space-between;
     margin: 16px;
 }
+
+.information{
+    display: flex;
+    flex-direction: row;
+   
+
+    
+}
+
+.left-header{
+    color: #f9faf8;
+    size: 48px;
+    font-weight: 700px;
+    margin: 50px;
+    padding: 50px;
+
+   
+}
+
+
