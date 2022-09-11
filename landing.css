@@ -37,8 +37,12 @@
 .information{
     display: flex;
     flex-direction: row;
-   
+    justify-content: space-around;
+    align-items: flex-start;
 
+    
+    
+    
     
 }
 
@@ -48,8 +52,14 @@
     font-weight: 700px;
     margin: 50px;
     padding: 50px;
+    width: 400px;
+    
 
    
+}
+
+.hands-image{
+    margin: 50px;
 }
 
 
