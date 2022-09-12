@@ -106,24 +106,24 @@
 
 }
 
-.blue-bubble{
+.fourth-portion{
     background-color: #3882f6;
-    border: 2px solid blue;
-    margin: 52px;
-    padding: 52px;
+    margin: 50px;
+    padding: 50px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
+    color: white;
+    
     
 }
 
-.sign-right{
+
+.footer{
+    background-color: #1f2937;
     display: flex;
-  
- 
+    justify-content: center;
+    padding: 20px;
+    color: white;
 }
-
-
 
 
