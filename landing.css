@@ -62,4 +62,68 @@
     margin: 50px;
 }
 
+.random-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    color: #1f2937;
+    margin: 35px;
+}
+
+
+.row-divs{
+    display: flex;
+    margin: 100px;
+}
+
+.box-blue{
+    border: 2px solid blue;
+    padding: 16px;
+    margin: 16px;
+    height: 85px;
+
+}
+
+.third-portion{
+    background-color: #e5e7eb;
+    
+}
+
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    margin: 100px;
+    padding: 100px;
+}
+
+.author{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 35px;
+
+}
+
+.blue-bubble{
+    background-color: #3882f6;
+    border: 2px solid blue;
+    margin: 52px;
+    padding: 52px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+}
+
+.sign-right{
+    display: flex;
+  
+ 
+}
+
+
+
 
